@@ -1,0 +1,56 @@
+.body {
+    background-color: #130f0f;
+}
+
+.common {
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 50px;
+}
+
+.common2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.standings{
+    color: rgb(133, 224, 224);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.right { 
+   float: right;
+}
+
+.left { 
+    float: left;
+}
+
+.center2{
+    text-align: center;
+    display: block;
+}
+
+.headings {
+    color: rgb(133, 224, 224);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tableau {
+    float: right;
+    display: block;
+}
+
+
+
